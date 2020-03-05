@@ -1,0 +1,8 @@
+<litepal>
+    <dbname value="FirstName"/>
+    <version value="1"/>
+    <List>
+        <mapping class="com.graduation.genogram.db.FirstNameDatabase"/>
+        <mapping class="com.graduation.genogram.db.Family"/>
+    </List>
+</litepal>
